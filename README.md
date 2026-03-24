@@ -4,16 +4,11 @@
 
 <header>
   <meta charset="UTF-8">
-  <title>Mi Currículum Vitae</title>
     <h1>Camila Valdebenito </h1>
 <img src="gato.JPG" alt="Mi foto" width="200">
 </header>
 <body>
-    <style>
-    body {
-      background-color: rgb(244, 251, 250);
-    }
-  </style>
+  
 <section>
     <h1>Información de contacto</h1>
     <p>Email: Camila.valdebenito.cvc@gmail.com</p>
