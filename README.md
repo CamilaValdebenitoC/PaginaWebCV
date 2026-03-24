@@ -1,7 +1,6 @@
 
 <!DOCTYPE html>
 <html lang="es">
-
 <header>
   <meta charset="UTF-8">
     <h1>Camila Valdebenito </h1>
